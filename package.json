@@ -1,15 +1,1 @@
-{
-  "name": "techweb-solutions",
-  "version": "1.0.0",
-  "description": "Techweb Solutions - Professional Services",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  }
-}
+{"name":"techweb-solutions","version":"1.0.0","description":"Techweb Solutions - Professional Services Website","scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"^13.0.0","react":"^18.0.0","react-dom":"^18.0.0"}}
